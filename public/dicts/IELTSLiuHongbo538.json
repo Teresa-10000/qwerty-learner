@@ -3008,3 +3008,195 @@
         "ukphone": "[ˈwel biːɪŋ]"
     }
 ]
+{
+    "name": "only",
+    "trans": ["adj.獨有的；排外的"]
+},
+{
+    "name": "assure",
+    "trans": ["v.保證，担保"]
+},
+{
+    "name": "receive",
+    "trans": ["v.接受"]
+},
+{
+    "name": "view",
+    "trans": ["v.看見，證實；目睹"]
+},
+{
+    "name": "see",
+    "trans": ["v.看見，證實；目睹"]
+},
+{
+    "name": "attractive",
+    "trans": ["adj.有魅力的"]
+},
+{
+    "name": "waste",
+    "trans": ["n.浪費；失去；消失"]
+},
+{
+    "name": "gone",
+    "trans": ["n.浪費；失去；消失"]
+},
+{
+    "name": "choice",
+    "trans": ["n.選擇"]
+},
+{
+    "name": "rather",
+    "trans": ["adv.相當"]
+},
+{
+    "name": "preference",
+    "trans": ["adj.優先的"]
+},
+{
+    "name": "preferential",
+    "trans": ["adj.優先的"]
+},
+{
+    "name": "principle",
+    "trans": ["adj.主要的"]
+},
+{
+    "name": "main",
+    "trans": ["adj.主要的"]
+},
+{
+    "name": "rule",
+    "trans": ["n.規則"]
+},
+{
+    "name": "possibility",
+    "trans": ["n.可能性"]
+},
+{
+    "name": "number",
+    "trans": ["n.數量"]
+},
+{
+    "name": "fix",
+    "trans": ["v.解決；固定，穩定"]
+},
+{
+    "name": "figure out",
+    "trans": ["v.解決；固定，穩定"]
+},
+{
+    "name": "complicate",
+    "trans": ["adj.複雜的"]
+},
+{
+    "name": "detailed",
+    "trans": ["adj.明確的；特徵的"]
+},
+{
+    "name": "particular",
+    "trans": ["adj.明確的；特徵的"]
+},
+{
+    "name": "remain",
+    "trans": ["v.保持；停留"]
+},
+{
+    "name": "quick",
+    "trans": ["adj.迅速的"]
+},
+{
+    "name": "rapid",
+    "trans": ["adj.迅速的"]
+},
+{
+    "name": "surprising",
+    "trans": ["adj.令人驚訝的"]
+},
+{
+    "name": "setting",
+    "trans": ["n.環境"]
+},
+{
+    "name": "environment",
+    "trans": ["n.環境"]
+},
+{
+    "name": "try",
+    "trans": ["v.嘗試"]
+},
+{
+    "name": "test",
+    "trans": ["v.嘗試"]
+},
+{
+    "name": "knowledge",
+    "trans": ["n.知識；技能"]
+},
+{
+    "name": "skill",
+    "trans": ["n.知識；技能"]
+},
+{
+    "name": "ability",
+    "trans": ["n.能力；才能；全體教員"]
+},
+{
+    "name": "contribute",
+    "trans": ["v.貢獻"]
+},
+{
+    "name": "energy",
+    "trans": ["n.動力"]
+},
+{
+    "name": "force",
+    "trans": ["n.動力"]
+},
+{
+    "name": "move",
+    "trans": ["n.動力"]
+},
+{
+    "name": "motive",
+    "trans": ["n.動機；刺激"]
+},
+{
+    "name": "stimulus",
+    "trans": ["n.動機；刺激"]
+},
+{
+    "name": "death",
+    "trans": ["n.死亡"]
+},
+{
+    "name": "unimportant",
+    "trans": ["adj.不重要的，次要的"]
+},
+{
+    "name": "minor",
+    "trans": ["adj.不重要的，次要的"]
+},
+{
+    "name": "neighbourhood",
+    "trans": ["n.鄰近；附近"]
+},
+{
+    "name": "nearby",
+    "trans": ["n.鄰近；附近"]
+},
+{
+    "name": "endanger",
+    "trans": ["v.危及，危害"]
+},
+{
+    "name": "jeopardize",
+    "trans": ["v.危及，危害"]
+},
+{
+    "name": "risk",
+    "trans": ["v.危及，危害"]
+},
+{
+    "name": "hazard",
+    "trans": ["v.危及，危害"]
+}
