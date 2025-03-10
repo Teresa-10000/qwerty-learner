@@ -3008,3 +3008,501 @@
         "ukphone": "[ˈwel biːɪŋ]"
     }
 ]
+[
+    {
+        "name": "like",
+        "trans": ["像", "与……相似"]
+    },
+    {
+        "name": "look",
+        "trans": ["像", "与……相似"]
+    },
+    {
+        "name": "be similar to",
+        "trans": ["像", "与……相似"]
+    },
+    {
+        "name": "perceive",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "acknowledge",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "realize",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "appreciate",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "admit",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "identify",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "comprehend",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "understand",
+        "trans": ["认出", "识别", "承认"]
+    },
+    {
+        "name": "change",
+        "trans": ["调整", "使适合"]
+    },
+    {
+        "name": "modify",
+        "trans": ["调整", "使适合"]
+    },
+    {
+        "name": "shift",
+        "trans": ["调整", "使适合"]
+    },
+    {
+        "name": "alter",
+        "trans": ["调整", "使适合"]
+    },
+    {
+        "name": "method",
+        "trans": ["方法"]
+    },
+    {
+        "name": "way",
+        "trans": ["方法"]
+    },
+    {
+        "name": "rudimentary",
+        "trans": ["基本的", "基础的"]
+    },
+    {
+        "name": "preliminary",
+        "trans": ["基本的", "基础的"]
+    },
+    {
+        "name": "basic",
+        "trans": ["基本的", "基础的"]
+    },
+    {
+        "name": "depend on",
+        "trans": ["依靠", "依赖"]
+    },
+    {
+        "name": "home",
+        "trans": ["家庭的", "国内的"]
+    },
+    {
+        "name": "local",
+        "trans": ["家庭的", "国内的"]
+    },
+    {
+        "name": "national",
+        "trans": ["家庭的", "国内的"]
+    },
+    {
+        "name": "calculate",
+        "trans": ["测量"]
+    },
+    {
+        "name": "assess",
+        "trans": ["测量"]
+    },
+    {
+        "name": "evaluate",
+        "trans": ["测量"]
+    },
+    {
+        "name": "characteristic",
+        "trans": ["特性", "特征"]
+    },
+    {
+        "name": "feature",
+        "trans": ["特性", "特征"]
+    },
+    {
+        "name": "property",
+        "trans": ["特性", "特征"]
+    },
+    {
+        "name": "first used",
+        "trans": ["创造"]
+    },
+    {
+        "name": "invent",
+        "trans": ["创造"]
+    },
+    {
+        "name": "synthetic",
+        "trans": ["人造的", "仿造的"]
+    },
+    {
+        "name": "man-made",
+        "trans": ["人造的", "仿造的"]
+    },
+    {
+        "name": "initiate",
+        "trans": ["促进", "激起"]
+    },
+    {
+        "name": "immediately",
+        "trans": ["促进", "激起"]
+    },
+    {
+        "name": "share",
+        "trans": ["交换"]
+    },
+    {
+        "name": "apply A to B",
+        "trans": ["交换"]
+    },
+    {
+        "name": "based on",
+        "trans": ["成为……基础"]
+    },
+    {
+        "name": "ground",
+        "trans": ["成为……基础"]
+    },
+    {
+        "name": "root",
+        "trans": ["成为……基础"]
+    },
+    {
+        "name": "neglect",
+        "trans": ["忽视", "不顾"]
+    },
+    {
+        "name": "overlook",
+        "trans": ["忽视", "不顾"]
+    },
+    {
+        "name": "underestimate",
+        "trans": ["忽视", "不顾"]
+    }
+]
+{
+    "name": "chemical",
+    "trans": ["化肥", "肥料"]
+},
+{
+    "name": "toxic",
+    "trans": ["化肥", "肥料"]
+},
+{
+    "name": "unnatural",
+    "trans": ["化肥", "肥料"]
+}
+[
+    {
+        "name": "variety",
+        "trans": ["多样性", "差异"]
+    },
+    {
+        "name": "difference",
+        "trans": ["多样性", "差异"]
+    },
+    {
+        "name": "find",
+        "trans": ["查明", "发现"]
+    },
+    {
+        "name": "look for",
+        "trans": ["查明", "发现"]
+    },
+    {
+        "name": "seek",
+        "trans": ["查明", "发现"]
+    },
+    {
+        "name": "search",
+        "trans": ["查明", "发现"]
+    },
+    {
+        "name": "inaccessible",
+        "trans": ["使隔离", "使孤立"]
+    },
+    {
+        "name": "escape",
+        "trans": ["避免"]
+    },
+    {
+        "name": "evitable",
+        "trans": ["避免"]
+    },
+    {
+        "name": "fund",
+        "trans": ["预算"]
+    },
+    {
+        "name": "financial",
+        "trans": ["预算"]
+    },
+    {
+        "name": "fit",
+        "trans": ["使适应"]
+    },
+    {
+        "name": "suit",
+        "trans": ["使适应"]
+    },
+    {
+        "name": "substitute",
+        "trans": ["供替代的", "供选择的"]
+    },
+    {
+        "name": "make up",
+        "trans": ["补偿", "赔偿"]
+    },
+    {
+        "name": "offset",
+        "trans": ["补偿", "赔偿"]
+    }
+]
+[
+    {
+        "name": "proportion",
+        "trans": ["成分", "要素"]
+    },
+    {
+        "name": "weapon",
+        "trans": ["军事的"]
+    },
+    {
+        "name": "army",
+        "trans": ["军事的"]
+    },
+    {
+        "name": "standard",
+        "trans": ["标准"]
+    },
+    {
+        "name": "syllabus",
+        "trans": ["课程"]
+    },
+    {
+        "name": "course of study",
+        "trans": ["课程"]
+    },
+    {
+        "name": "realistic",
+        "trans": ["可行的"]
+    },
+    {
+        "name": "viable",
+        "trans": ["可行的"]
+    },
+    {
+        "name": "stop",
+        "trans": ["束缚", "限制"]
+    },
+    {
+        "name": "control",
+        "trans": ["束缚", "限制"]
+    },
+    {
+        "name": "shortage",
+        "trans": ["缺陷", "缺点"]
+    },
+    {
+        "name": "defect",
+        "trans": ["缺陷", "缺点"]
+    },
+    {
+        "name": "weakness",
+        "trans": ["缺陷", "缺点"]
+    },
+    {
+        "name": "provision",
+        "trans": ["补充"]
+    },
+    {
+        "name": "separate",
+        "trans": ["区别", "辨别"]
+    },
+    {
+        "name": "differentiate",
+        "trans": ["区别", "辨别"]
+    },
+    {
+        "name": "examine",
+        "trans": ["分析", "解释"]
+    },
+    {
+        "name": "diagnose",
+        "trans": ["分析", "解释"]
+    },
+    {
+        "name": "focus on",
+        "trans": ["强调", "尊重"]
+    },
+    {
+        "name": "stress",
+        "trans": ["强调", "尊重"]
+    },
+    {
+        "name": "massive",
+        "trans": ["庞大的", "巨大的"]
+    },
+    {
+        "name": "large",
+        "trans": ["庞大的", "巨大的"]
+    },
+    {
+        "name": "mimic",
+        "trans": ["模仿"]
+    },
+    {
+        "name": "copy",
+        "trans": ["模仿"]
+    },
+    {
+        "name": "damage",
+        "trans": ["削弱", "减少"]
+    },
+    {
+        "name": "diminish",
+        "trans": ["削弱", "减少"]
+    },
+    {
+        "name": "decrease",
+        "trans": ["削弱", "减少"]
+    },
+    {
+        "name": "impede",
+        "trans": ["阻碍"]
+    },
+    {
+        "name": "prevent",
+        "trans": ["阻碍"]
+    },
+    {
+        "name": "deter",
+        "trans": ["阻碍"]
+    },
+    {
+        "name": "obstacle",
+        "trans": ["阻碍"]
+    },
+    {
+        "name": "legal",
+        "trans": ["合法的"]
+    },
+    {
+        "name": "restriction",
+        "trans": ["限制"]
+    },
+    {
+        "name": "method",
+        "trans": ["手法"]
+    },
+    {
+        "name": "tradition",
+        "trans": ["习俗"]
+    },
+    {
+        "name": "troublesome",
+        "trans": ["苛求的"]
+    },
+    {
+        "name": "decide",
+        "trans": ["决定"]
+    },
+    {
+        "name": "speed up",
+        "trans": ["加速", "促进", "强调"]
+    },
+    {
+        "name": "aged",
+        "trans": ["古代的", "古老的"]
+    },
+    {
+        "name": "old",
+        "trans": ["古代的", "古老的"]
+    },
+    {
+        "name": "helpful",
+        "trans": ["有益的"]
+    },
+    {
+        "name": "advantageous",
+        "trans": ["有益的"]
+    },
+    {
+        "name": "wholesome",
+        "trans": ["有益的"]
+    },
+    {
+        "name": "lasting",
+        "trans": ["慢性的", "长期性的"]
+    },
+    {
+        "name": "aware",
+        "trans": ["有意识的", "神志清醒的"]
+    },
+    {
+        "name": "knowing",
+        "trans": ["有意识的", "神志清醒的"]
+    },
+    {
+        "name": "reduce",
+        "trans": ["最小化", "使……减少到最少"]
+    },
+    {
+        "name": "lessen",
+        "trans": ["最小化", "使……减少到最少"]
+    },
+    {
+        "name": "resistance",
+        "trans": ["免疫力"]
+    },
+    {
+        "name": "compelling",
+        "trans": ["必要的", "紧急的"]
+    },
+    {
+        "name": "necessary",
+        "trans": ["必要的", "紧急的"]
+    },
+    {
+        "name": "urgent",
+        "trans": ["必要的", "紧急的"]
+    },
+    {
+        "name": "discharge",
+        "trans": ["分泌"]
+    },
+    {
+        "name": "exude",
+        "trans": ["分泌"]
+    },
+    {
+        "name": "overstate",
+        "trans": ["夸大", "夸张"]
+    },
+    {
+        "name": "pass",
+        "trans": ["传达", "传播"]
+    },
+    {
+        "name": "send",
+        "trans": ["传达", "传播"]
+    },
+    {
+        "name": "transfer",
+        "trans": ["传达", "传播"]
+    },
+    {
+        "name": "die out",
+        "trans": ["灭绝"]
+    },
+    {
+        "name": "lost",
+        "trans": ["灭绝"]
+    }
+]
